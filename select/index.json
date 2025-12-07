@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "うい麦畑でつかまえて",
+  "base_artist": "しぐれうい",
+  "createdAt": "2025-12-07T06:51:28.276031Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うい麦畑でつかまえて",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/01_うい麦畑でつかまえて_しぐれうい.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "うい麦畑でつかまえて",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/02_うい麦畑でつかまえて_しぐれうい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うい麦畑でつかまえて",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_うい麦畑でつかまえて_しぐれうい.txt"
+    }
+  ]
+}
